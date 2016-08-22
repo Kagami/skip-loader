@@ -1,0 +1,26 @@
+{
+  "name": "skip-loader",
+  "version": "0.0.0",
+  "description": "A loader that returns an empty string module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kagami/skip-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "empty",
+    "skip",
+    "null"
+  ],
+  "author": "Kagami Hiiragi",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/Kagami/skip-loader/issues"
+  },
+  "homepage": "https://github.com/Kagami/skip-loader#readme"
+}
